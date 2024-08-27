@@ -11,7 +11,6 @@ LinkedIn: https://www.linkedin.com/in/reediury/
 
 📦 Arquivos
 =
-index.html: Código-fonte completo do calendário de metas diárias.
 
 CALENDARIO_HTML.pbix: Exemplo de relatório Power BI com o calendário aplicado.
 
@@ -21,14 +20,11 @@ CALENDARIO_HTML.pbix: Exemplo de relatório Power BI com o calendário aplicado.
 Visual Personalizado:
 Para usar este calendário no Power BI, é necessário um visual que suporte HTML. Recomendo o HTML Content, que pode ser baixado e instalado através do site https://www.html-content.com/ ou pela opção "Obter mais visuais" no Power BI.
 
-Inserção do Código:
-
-Copie o código do index.html.
-Ao inserir o código no visual HTML, substitua todas as aspas duplas (") por duas aspas duplas (""). Isso é necessário para evitar erros de interpretação no Power BI.
-
 Arquivo de Exemplo:
 
 O arquivo CALENDARIO_HTML.pbix contém um exemplo de como o calendário de metas diárias é exibido em um relatório Power BI.
+
+E necessário adaptar os seus dados conforme a Medida "JSON_DADOS".
 
 🛠 Variáveis Principais
 =

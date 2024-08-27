@@ -50,3 +50,62 @@ closePopup(): Fecha o pop-up de detalhes.
 https://github.com/user-attachments/assets/e6dbf085-30bb-49d2-81f0-45ba46c0c0bd
 
 Se tiver dúvidas ou sugestões, entre em contato comigo pelo LinkedIn.
+
+
+English
+=
+
+📅 Daily Goals Calendar for Power BI
+=
+
+This repository contains an example of a dynamic calendar developed with HTML, CSS, and JavaScript. The calendar facilitates tracking daily goals, allowing you to visually identify the days when goals were achieved and access details of each day with a simple click.
+
+👤 Author
+=
+
+Name: Reed Iury
+
+LinkedIn: https://www.linkedin.com/in/reediury/
+
+📦 Files
+=
+
+CALENDARIO_HTML.pbix: Example of a Power BI report with the applied calendar.
+
+🚀 Usage Instructions
+=
+
+Custom Visual:
+
+To use this calendar in Power BI, you need a visual that supports HTML. I recommend the HTML Content visual, which can be downloaded and installed via https://www.html-content.com/ or by selecting "Get more visuals" in Power BI.
+
+Example File:
+
+The CALENDARIO_HTML.pbix file contains an example of how the daily goals calendar is displayed in a Power BI report.
+
+You need to adapt your data according to the "JSON_DADOS" Measure.
+
+🛠 Main Variables
+=
+
+jsonData: Data in JSON format, containing information on daily goals and results.
+
+currentMonth: Current month displayed on the calendar.
+
+currentYear: Current year displayed on the calendar.
+
+📜 Main Functions
+=
+
+generateCalendar(month, year): Generates the calendar for the specified month and year.
+
+showPopup(data): Displays a pop-up with details of the selected day’s goal.
+
+closePopup(): Closes the details pop-up.
+
+🗓️ Calendar
+=
+
+https://github.com/user-attachments/assets/e6dbf085-30bb-49d2-81f0-45ba46c0c0bd
+
+If you have any questions or suggestions, feel free to contact me on LinkedIn.

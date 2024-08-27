@@ -102,10 +102,3 @@ generateCalendar(month, year): Generates the calendar for the specified month an
 showPopup(data): Displays a pop-up with details of the selected day’s goal.
 
 closePopup(): Closes the details pop-up.
-
-🗓️ Calendar
-=
-
-https://github.com/user-attachments/assets/e6dbf085-30bb-49d2-81f0-45ba46c0c0bd
-
-If you have any questions or suggestions, feel free to contact me on LinkedIn.

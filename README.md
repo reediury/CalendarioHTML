@@ -18,6 +18,7 @@ CALENDARIO_HTML.pbix: Exemplo de relatório Power BI com o calendário aplicado.
 =
 
 Visual Personalizado:
+
 Para usar este calendário no Power BI, é necessário um visual que suporte HTML. Recomendo o HTML Content, que pode ser baixado e instalado através do site https://www.html-content.com/ ou pela opção "Obter mais visuais" no Power BI.
 
 Arquivo de Exemplo:
